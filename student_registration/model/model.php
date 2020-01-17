@@ -39,10 +39,6 @@
 
          mysqli_close($conn);
 
-
-
-
-
 	    }
   	}
 
@@ -59,6 +55,6 @@ function getlogin($Index_no,$Name,$Password){
 			return "studentpro.php";
 			}
 	}
+	}
 }
-}}
  ?>
